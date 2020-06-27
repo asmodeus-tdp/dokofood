@@ -1,0 +1,23 @@
+
+Deleted - Post ID 1589 - product - Faint Washed Denim Blue Jeans
+Deleted - Post ID 1592 - product - DNK Blue Shoes
+Deleted - Post ID 1594 - product - DNK Yellow Shoes
+Deleted - Post ID 1598 - attachment - logo@2x-free-img-6
+Complete 
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'DoKo Food' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing MISC ----
+Post ID: 225
+Post ID: 224
+Post ID: 118
+Post ID: 119
+Post ID: 120
+Post ID: 113
+Post ID: 114
+Post ID: 115
+Post ID: 116
+Post ID: 117
+Batch Process Complete!
